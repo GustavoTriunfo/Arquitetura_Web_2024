@@ -1,5 +1,7 @@
 # Arquitetura_Web_2024
-## Exercício da aula 3. Execução no Insomnia
+## Exercício da aula 3: Executando no VS Code
+![Imagem POST](Aula_Tres/images/AlunoController_vscode.png)
+## Exercício da aula 3: Chamada no Insomnia
 ### POST 
 ![Imagem POST](Aula_Tres/images/POST.png)
 
