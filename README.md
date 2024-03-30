@@ -1,5 +1,5 @@
 # Arquitetura_Web_2024
-## Exercício da aula 3: Executando no VS Code
+## Aula 3 - Introdução a criação de API Rest: Executando no VS Code
 ![Imagem POST](Aula_Tres/images/AlunoController_vscode.png)
 ## Exercício da aula 3: Chamada no Insomnia
 ### POST 
