@@ -1,7 +1,7 @@
 # Arquitetura_Web_2024
 ## Aula 4 - Inversão de controle e Injeção de dependências: Executando no VS Code
 ![Imagem vscode](Aula_Quatro/images/ExecucaoVSCode.png)
-## Exercício da aula 3: Chamada no Insomnia
+## Exercício da aula 4: Chamada no Insomnia
 ### POST 
 ![Imagem POST](Aula_Quatro/images/POST_00.png)
 
