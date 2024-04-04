@@ -14,6 +14,7 @@ O projeto tem como objetivo criar uma aplicação para gerenciar informações d
 O projeto está estruturado em diferentes camadas:
 
 - **Controller**: Responsável por receber as requisições HTTP e direcioná-las para os serviços apropriados.
+- **Modelo**: Possui a responsabilidade de ser o modelo Aluno. Essa é a classe que cria o objeto aluno quando invocada através do construtor no sistema.
 - **Service**: Contém a lógica de negócio da aplicação, incluindo operações como adicionar, atualizar, buscar e excluir alunos.
 - **Repository**: Responsável pela interação com a fonte de dados (banco de dados ou outro sistema de armazenamento), fornecendo operações de acesso aos dados.
 
